@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "The Seasons";
+	font-weight: normal;
+	src: url("./theseasons-reg.otf");
+}
+
+@font-face {
+	font-family: "The Seasons";
+	font-weight: bold;
+	src: url("./theseasons-bd.otf");
+}

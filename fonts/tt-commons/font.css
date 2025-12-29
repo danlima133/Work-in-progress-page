@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "TT Commons";
+	font-weight: normal;
+	src: url("./tt-commons-reg.otf");
+}
+
+@font-face {
+	font-family: "TT Commons";
+	font-weight: bold;
+	src: url("./tt-commons-bd.otf");
+}
