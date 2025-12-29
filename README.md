@@ -1,4 +1,4 @@
-# Recrinado designs
+# Recriando designs
 
 Mais um site do projeto "Recriando designs". O site da vez foi uma página de trabalho em progresso.
 
